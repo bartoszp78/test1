@@ -20,7 +20,7 @@ using namespace std;
 
 int main()
 {
-	int lg;  // liczba grafow
+	int lg;  // liczba grafow  --<BP 04.11.2017>  test 2
 	int lw;  // liczba wierzcho³ków
 
 	int graf[100][100];  //deklaracja tablicy dla grafu
